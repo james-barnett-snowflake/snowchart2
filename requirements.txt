@@ -1,0 +1,10 @@
+
+
+python -c "
+import altair
+import numpy
+import pandas
+import streamlit
+import snowflake.connector;
+print("Packages successfully imported")
+"
